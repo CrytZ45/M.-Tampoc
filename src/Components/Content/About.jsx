@@ -20,11 +20,11 @@ function About() {
           About Me
         </h1>
         <p data-aos='fade-left '>
-          Hello, I'm Chirag, a front-end developer. I have a passion for building innovative web applications. I graduated from the University of  Petroleum and Energy Studies with a specialization in cloud computing and virtualization. Proficient in web development, I have acquired experience in AWS tools. During my time at university, I developed a keen interest in web development and decided to pursue it as a career.
+          Hello, I'm Michael, 23 years old Student of North Eastern Mindanao State University.I'm studying of Bachelor of Science computer science.
           <br />
-          I have experience working with HTML, CSS, JavaScript, React, Redux,  SQL, and Git, and I'm always looking to expand my skill set. Eager to leverage this comprehensive skill set and contribute to innovative projects in the dynamic field of web development.
+          My hobbies are playing video games , basketball, and watching movies.
           <br />
-          When I'm not coding, you can find me exploring new locations for an outing, hiking, or trying out new recipes in my kitchen. I'm a firm believer in work-life balance and strive to maintain a healthy lifestyle.
+          I'm from St.Chritine,Lianga ,Surigao del Sur.
         </p>
         <div className='flex mt-8 gap-2 space-x-2 items-center justify-center'>
           <a href={Resume} target="_blank">

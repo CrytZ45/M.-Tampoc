@@ -13,7 +13,7 @@ function Projects() {
   
   return (
     <div id='Projects' className='bg-white text-black dark:bg-slate-900 dark:text-white p-20 flex flex-col items-center justify-center'>
-      <h1 data-aos='fade-right' className='text-[52px] font-semibold mb-20 leading-normal uppercase text-fuchsia-500'>Projects</h1>
+      <h1 data-aos='fade-right' className='text-[52px] font-semibold mb-20 leading-normal uppercase text-fuchsia-500'>Gallery</h1>
       <div className='grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-around gap-10'>
 
       
@@ -22,12 +22,7 @@ function Projects() {
           <a target="_blank" href={project.link}>
             <img className='text-[26px] flex items-center justify-center rounded-3xl h-40 w-60 p-1 border-2 border-fuchsia-800 border-glow' src={project.image} alt="project" />
           </a>
-          <p className='flex gap-2 h-full lg:mt-4 justify-center mt-4  '>
-            {project.title}
-            <a target="_blank" href={project.github} className='hover:text-fuchsia-800 transition-all duration-150 ease-in-out text-[20px]'>
-              <AiFillGithub/>
-            </a>
-          </p>
+          
         </div>
       ))}
 

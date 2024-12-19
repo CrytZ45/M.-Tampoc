@@ -16,20 +16,17 @@ function Home() {
 
   const social = [
     {
-      link: 'https://www.linkedin.com/in/chirag-jain-77aa30148',
-      icon: <FaLinkedinIn/>,
+      link: 'https://www.linkedin.com/in/chirag-jain-77aa30148'
+     
     },
     {
-      link: 'https://github.com/chiragjain307',
-      icon: <AiFillGithub/>,
+      link: 'https://github.com/chiragjain307'
     },
     {
-      link: 'https://twitter.com/mr_kasliwal',
-      icon: <FaXTwitter/>,
+      link: 'https://twitter.com/mr_kasliwal'
     },
     {
-      link: 'https://www.instagram.com/_mr_kasliwal_',
-      icon: <FaInstagram/>,
+      link: 'https://www.instagram.com/_mr_kasliwal_'
     }
   ]
 
@@ -39,7 +36,7 @@ function Home() {
         <h1 data-aos='fade-right' className='text-[52px] font-semibold mb-8 leading-normal uppercase'>
           Welcome To <span className='text-fuchsia-500'>My Portfolio Website</span>
         </h1>
-        <p data-aos='fade-left'>Hi, I'm a dedicated web developer based in Rajasthan, India. Drawing from a foundation in cloud computing and proficient knowledge of AWS services, I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project.</p>
+        <p data-aos='fade-left'>Hi, I'm Michael Welcome to my Porfolio</p>
         <div data-aos='fade-up' className='flex mt-8 gap-2'>
           <div className='flex items-center justify-center'>
             

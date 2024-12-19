@@ -1,18 +1,9 @@
-import img1 from '../assets/todoApp.png'
 import img2 from '../assets/weather.png'
 import img3 from '../assets/blog.png'
 import img4 from '../assets/tours-travel.png'
 import img5 from '../assets/media-player.png'
 
 const ProjectsList = [
-    {
-        id: 1,
-        title: 'Daily Todos',
-        link: 'https://todo-webapp-pro.vercel.app',
-        github: 'https://github.com/chiragjain307/Todo-WebApp',
-        image: img1
-        
-    },
     {
         id: 2,
         title: 'Current Weather',
